@@ -52,7 +52,7 @@ This will install all the dependencies listed in `backend/package.json`, includi
 
 ### **Step 4: Configure the Environment**
 
-- Make sure that your **API URL** is configured correctly in your frontend.
+- Make sure that your **API URL** is configured correctly in your frontend. The test env has been commited.
 
 If you're using `.env` files, you can set the API URL in your frontend’s `.env` file like this:
 
